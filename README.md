@@ -1,4 +1,18 @@
-This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
+# Library Books App
+
+## Description
+
+This app is designed to help you read more for free, while supporting our public libraries.
+
+It pulls down book suggestions from various sources (initially the New York Times Bestsellers Lists), and checks to see whether the book is available in the LibrariesWest catalogue.  The user can then place a free reservation.
+
+## Status
+
+Under development.
+
+## Technologies
+
+This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).  It uses Axios to connect to the NY Times API.
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
